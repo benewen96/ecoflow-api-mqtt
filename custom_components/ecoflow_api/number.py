@@ -512,7 +512,7 @@ STREAM_ULTRA_X_NUMBER_DEFINITIONS = {
         "state_key": "dayResidentLoadList",
         "param_key": "cfgDayResidentLoadList",
         "min": 0,
-        "max": 800,
+        "max": 1200,
         "step": 10,
         "unit": UnitOfPower.WATT,
         "icon": "mdi:transmission-tower-export",
